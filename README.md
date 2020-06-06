@@ -1,5 +1,5 @@
 # FILE-BASED-RECORD-SYSTEM
-It is created using **Python Tkinder**. 
+It is created using **Python Tkinter**. 
 This software is a small concept of how we had store our records in file like txt, word rather than database.
 
 ## Features of this project :
